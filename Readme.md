@@ -17,7 +17,11 @@ The ~ (bitwise NOT): takes one number and inverts all bits of it.
 Truth table for operators:
 
 X	Y	 X&Y	X|Y 	X^Y
+
 0	0 	0  	0  	   0
+
 0	1  	0 	1    	 1 
+
 1	0 	0 	1	     1
+
 1	1  	1 	1	     1
